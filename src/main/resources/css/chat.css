@@ -1,0 +1,17 @@
+.chat-bubble {
+	-fx-shape:
+		"M 100 200 Q 50 200 50 250 L 50 350 Q 50 400 100 400 L 700 400 Q 750 400 750 350 L 750 250 Q 750 200 700 200 L 100 200 Z";
+	-fx-background-color: #c5b538;
+	-fx-text-fill: #ffffff;
+	-fx-padding: 15 25 15 30;
+}
+.chat-bubble-receive {
+	-fx-shape:
+		"M 100 200 Q 50 200 50 250 L 50 350 Q 50 400 100 400 L 700 400 Q 750 400 750 350 L 750 250 Q 750 200 700 200 L 100 200 Z ";
+	-fx-background-color: #a0a0a0;
+	-fx-text-fill: #ffffff;
+	-fx-padding: 15 30 15 25;
+}
+
+
+
